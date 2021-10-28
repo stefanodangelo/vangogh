@@ -8,7 +8,7 @@
 ## Description
 This repository contains the final project of my studies entitled:
 
-__Deep Learning to paint like Van Gogh__
+__*Deep Learning to paint like Van Gogh*__
 
 Its main goal is to transfer style from Van Gogh's paintings to real images, in order to augment the set of Van Gogh's paintings available.
 
