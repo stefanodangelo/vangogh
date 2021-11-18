@@ -37,7 +37,7 @@ Its main goal is to transfer style from Van Gogh's paintings to real images, in 
 - [x] Explore Convolutional Neural Network with Markov Random Field implementation
 - [x] Explore CycleGAN implementation
 - [ ] Explore Semantic Style Transfer implementation
-- [ ] Explore Deep Photo Style Transfer implementation
+- [x] Explore Deep Photo Style Transfer implementation
 - [ ] Compare state-of-the-art models together
 - [ ] Find a model that improves the state-of-the-art
 - [ ] (Optional) Use semantic segmentation to see if this improves results
