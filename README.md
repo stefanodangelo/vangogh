@@ -25,7 +25,7 @@ Its main goal is to transfer style from Van Gogh's paintings to real images, in 
 | Task | Progression |
 |:-----------------------|:------------------------------------:|
 | Description of Work | [![GREEN](http://placehold.it/15/44bb44/44bb44)](#) |
-| Detailed progress plan | [![YELLOW](http://placehold.it/15/ffdd00/ffdd00)](#) |
+| Detailed progress plan | [![GREEN](http://placehold.it/15/44bb44/44bb44)](#) |
 | Scientific Article | [![YELLOW](http://placehold.it/15/ffdd00/ffdd00)](#) |
 | Software delivery sheet | [![RED](http://placehold.it/15/f03c15/f03c15)](#) |
 | Video | [![RED](http://placehold.it/15/f03c15/f03c15)](#) |
