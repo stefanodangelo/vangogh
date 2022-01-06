@@ -39,8 +39,15 @@ Its main goal is to transfer style from Van Gogh's paintings to real images, in 
 - [x] Explore Semantic Style Transfer implementation
 - [x] Explore Automated Deep Photo Style Transfer implementation
 - [ ] Compare state-of-the-art models together
-- [ ] Find a model that improves the state-of-the-art
-- [ ] (Optional) Use semantic segmentation to see if this improves results
+- [x] Find a model that improves the state-of-the-art
+- [x] (Optional) Use semantic segmentation to see if this improves results
 
 ## Report
 Click [here](https://www.overleaf.com/read/cvmdhrdzczyq) to see the final report.
+
+## Source code
+In order for the notebooks to work, the following source code must be downloaded:
+- Automated Deep Photo Style Transfer: 
+  - [source code](https://drive.google.com/drive/folders/1ODEgBJmRBpBPJ9uDKwEyAnSkeLL4RcJV?usp=sharing) ([credits](https://github.com/Spenhouet/automated-deep-photo-style-transfer)) 
+  - [weights](https://github.com/Spenhouet/automated-deep-photo-style-transfer/releases/latest) for the pretrained model
+- [Dataset](https://drive.google.com/drive/folders/1r0PyD42lNfEIIKwtI_4J9NiELJOGw20D?usp=sharing)
