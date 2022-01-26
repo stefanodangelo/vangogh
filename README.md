@@ -3,7 +3,7 @@
 ## Author 
 ### D'Angelo Stefano <br>stefano.dangelo.ct@gmail.com
 ## Supervisor
-### Precioso Frederic <br>frederic.precioso@univ-cotedazur.fr 
+### Precioso Frédéric <br>frederic.precioso@univ-cotedazur.fr 
 
 ## Description
 This repository contains the final project of my studies entitled:
@@ -55,10 +55,10 @@ In order for the notebooks to work, the following source code must be downloaded
   - [weights](http://www.vlfeat.org/matconvnet/models/imagenet-vgg-verydeep-19.mat) ([credits](https://github.com/gargimahale/Doodle))
 
 ## Instructions
-For the pre-processing phase or to reproduce [CycleGAN](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) results, have a look at `CycleGAN.ipynb` notebook. To generate segmentation masks, after having downloaded the source code of Automated Deep Photo Style Transfer, open file `style_transfer.py` and comment lines 347-349. Then, run `AutomatedDeepPhotoStyleTransfer.ipynb`. \
+For the pre-processing phase or to reproduce [CycleGAN](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) results, have a look at `src/CycleGAN.ipynb` notebook. To generate segmentation masks, after having downloaded the source code of Automated Deep Photo Style Transfer, open file `automated-deep-photo-style-transfer/style_transfer.py` and comment lines 347-349. Then, run `src/AutomatedDeepPhotoStyleTransfer.ipynb`. \
 To reproduce results of:
-- **Patch-based** model, run `Patch-based.ipynb`
-- **Neural Doodle** model, run `Neural-Doodle.ipynb`
-- **Photo-Realistic into Painting-Like Artistic Style Transfer** model, uncomment lines 347-349 and comment lines 330-333; then, run `AutomatedDeepPhotoStyleTransfer.ipynb`
-- **Neural Style Transfer** run `NeuralStyleTransfer.ipynb` ([credits](https://github.com/titu1994/Neural-Style-Transfer.git))
-- **CNNMRF** run `CNNMRF.ipynb` ([credits](https://github.com/jonzhaocn/cnnmrf-pytorch))
+- **Patch-based** model, run `src/Patch-based.ipynb`
+- **Neural Doodle** model, run `src/Neural-Doodle.ipynb`
+- **Photo-Realistic into Painting-Like Artistic Style Transfer** model, uncomment lines 347-349 and comment lines 330-333; then run `src/AutomatedDeepPhotoStyleTransfer.ipynb`
+- **Neural Style Transfer** run `src/NeuralStyleTransfer.ipynb` ([credits](https://github.com/titu1994/Neural-Style-Transfer.git))
+- **CNNMRF** run `src/CNNMRF.ipynb` ([credits](https://github.com/jonzhaocn/cnnmrf-pytorch))
