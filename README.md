@@ -42,9 +42,6 @@ Its main goal is to transfer style from Van Gogh's paintings to real images, in 
 - [x] Find a model that improves the state-of-the-art
 - [x] (Optional) Use semantic segmentation to see if this improves results
 
-## Report
-Click [here](https://www.overleaf.com/read/cvmdhrdzczyq) to see the final report.
-
 ## Source code
 In order for the notebooks to work, the following source code must be downloaded:
 - Automated Deep Photo Style Transfer: 
@@ -54,6 +51,7 @@ In order for the notebooks to work, the following source code must be downloaded
 - Neural Doodle: 
   - [weights](http://www.vlfeat.org/matconvnet/models/imagenet-vgg-verydeep-19.mat) ([credits](https://github.com/gargimahale/Doodle))
 
+Main credits: https://github.com/huihuangzhao/Neural-Style-Transfer-Papers-Code
 ## Instructions
 For the pre-processing phase or to reproduce [CycleGAN](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) results, have a look at `src/CycleGAN.ipynb` notebook. To generate segmentation masks, after having downloaded the source code of Automated Deep Photo Style Transfer, open file `automated-deep-photo-style-transfer/style_transfer.py` and comment lines 347-349. Then, run `src/AutomatedDeepPhotoStyleTransfer.ipynb`. \
 To reproduce results of:
