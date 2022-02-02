@@ -28,15 +28,14 @@ Its main goal is to transfer style from Van Gogh's paintings to real images, in 
 | Detailed progress plan | [![GREEN](http://placehold.it/15/44bb44/44bb44)](#) |
 | Scientific Article | [![GREEN](http://placehold.it/15/44bb44/44bb44)](#) |
 | Software delivery form | [![YELLOW](http://placehold.it/15/ffdd00/ffdd00)](#) |
-| Video | [![YELLOW](http://placehold.it/15/ffdd00/ffdd00)](#) |
-| Poster | [![RED](http://placehold.it/15/f03c15/f03c15)](#) |
+| Video | [![GREEN](http://placehold.it/15/44bb44/44bb44)](#) |
+| Poster | [![YELLOW](http://placehold.it/15/ffdd00/ffdd00)](#) |
 
 ## Activities
 
 - [x] Explore Neural Style Transfer implementation
 - [x] Explore Convolutional Neural Network with Markov Random Field implementation
 - [x] Explore CycleGAN implementation
-- [x] Explore Semantic Style Transfer implementation
 - [x] Explore Automated Deep Photo Style Transfer implementation
 - [x] Compare state-of-the-art models together
 - [x] Find a model that improves the state-of-the-art
@@ -47,9 +46,10 @@ In order for the notebooks to work, the following source code must be downloaded
 - Automated Deep Photo Style Transfer: 
   - [source code](https://drive.google.com/drive/folders/1ODEgBJmRBpBPJ9uDKwEyAnSkeLL4RcJV?usp=sharing) ([credits](https://github.com/Spenhouet/automated-deep-photo-style-transfer)) 
   - [weights](https://github.com/Spenhouet/automated-deep-photo-style-transfer/releases/latest) for the pretrained model
-- [Dataset](https://drive.google.com/drive/folders/1r0PyD42lNfEIIKwtI_4J9NiELJOGw20D?usp=sharing)
 - Neural Doodle: 
-  - [weights](http://www.vlfeat.org/matconvnet/models/imagenet-vgg-verydeep-19.mat) ([credits](https://github.com/gargimahale/Doodle))
+  - [source code](https://drive.google.com/drive/folders/1-lkxkXrj025llmE4dDAOYCDJJUk3vYUw?usp=sharing) ([credits](https://github.com/gargimahale/Doodle))
+  - [weights](http://www.vlfeat.org/matconvnet/models/imagenet-vgg-verydeep-19.mat) for the pretrained model
+- [Dataset](https://drive.google.com/drive/folders/1r0PyD42lNfEIIKwtI_4J9NiELJOGw20D?usp=sharing)
 
 Main credits: https://github.com/huihuangzhao/Neural-Style-Transfer-Papers-Code
 ## Instructions
