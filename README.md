@@ -47,7 +47,7 @@ In order for the notebooks to work, the following source code must be downloaded
   - [source code](https://drive.google.com/drive/folders/1ODEgBJmRBpBPJ9uDKwEyAnSkeLL4RcJV?usp=sharing) ([credits](https://github.com/Spenhouet/automated-deep-photo-style-transfer)) 
   - [weights](https://github.com/Spenhouet/automated-deep-photo-style-transfer/releases/latest) for the pretrained model
 - Neural Doodle: 
-  - [source code](https://drive.google.com/drive/folders/1-lkxkXrj025llmE4dDAOYCDJJUk3vYUw?usp=sharing) ([credits](https://github.com/gargimahale/Doodle))
+  - source code is already in `src` folder ([credits](https://github.com/gargimahale/Doodle))
   - [weights](http://www.vlfeat.org/matconvnet/models/imagenet-vgg-verydeep-19.mat) for the pretrained model
 - [Dataset](https://drive.google.com/drive/folders/1r0PyD42lNfEIIKwtI_4J9NiELJOGw20D?usp=sharing)
 
