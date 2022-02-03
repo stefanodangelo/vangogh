@@ -43,6 +43,8 @@ Its main goal is to transfer style from Van Gogh's paintings to real images, in 
 
 ## Source code
 In order for the notebooks to work, the following source code must be downloaded:
+- CycleGAN:
+  - [pretrained Vangogh2Photo model](https://drive.google.com/file/d/1NGXoMgnkBwsO6WNuZfHpwbb3aN6NLs-7/view?usp=sharing) for the pre-processing phase
 - Automated Deep Photo Style Transfer: 
   - [source code](https://drive.google.com/drive/folders/1ODEgBJmRBpBPJ9uDKwEyAnSkeLL4RcJV?usp=sharing) ([credits](https://github.com/Spenhouet/automated-deep-photo-style-transfer)) 
   - [weights](https://github.com/Spenhouet/automated-deep-photo-style-transfer/releases/latest) for the pretrained model
@@ -53,7 +55,8 @@ In order for the notebooks to work, the following source code must be downloaded
 
 Main credits: https://github.com/huihuangzhao/Neural-Style-Transfer-Papers-Code
 ## Instructions
-For the pre-processing phase or to reproduce [CycleGAN](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) results, have a look at `src/CycleGAN.ipynb` notebook. To generate segmentation masks, after having downloaded the source code of Automated Deep Photo Style Transfer, open file `automated-deep-photo-style-transfer/style_transfer.py` and comment lines 347-349. Then, run `src/AutomatedDeepPhotoStyleTransfer.ipynb`. \
+For the pre-processing phase or to reproduce [CycleGAN](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) results, have a look at `src/CycleGAN.ipynb` notebook. A pretrained model is available for the pre-processing step, and once you download it, just copy the folder `vangogh2photo`, containing both the 2 generators and the 2 discriminators, under `pytorch-CycleGAN-and-pix2pix/checkpoints/`. The latter should be the right path if you cloned the CycleGAN repository without changing any names. \
+To generate segmentation masks, after having downloaded the source code of Automated Deep Photo Style Transfer, open file `automated-deep-photo-style-transfer/style_transfer.py` and comment lines 347-349. Then, run `src/AutomatedDeepPhotoStyleTransfer.ipynb`. \
 To reproduce results of:
 - **Patch-based** model, run `src/Patch-based.ipynb`
 - **Neural Doodle** model, run `src/Neural-Doodle.ipynb`
