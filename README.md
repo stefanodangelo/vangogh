@@ -1,12 +1,14 @@
 # Final Degree Project 2021
 
+For the code used in the paper called __*Revisiting Artistic Style Transfer For Data Augmentation In A Real-case Scenario*__ scroll down to the **Source Code** section.
+
 ## Author 
 ### D'Angelo Stefano <br>stefano.dangelo.ct@gmail.com
 ## Supervisor
 ### Precioso Frédéric <br>frederic.precioso@univ-cotedazur.fr 
 
 ## Description
-This repository contains the final project of my studies entitled:
+This repository contains the code for the final degree project 2021-2022 at Université Cote d'Azur entitled:
 
 __*Deep Learning to paint like Van Gogh*__
 
@@ -17,19 +19,19 @@ Its main goal is to transfer style from Van Gogh's paintings to real images, in 
 ###### Legend
 | Progression | Color |
 |:-----------------------|:------------------------------------:|
-| Not done | [![RED](http://placehold.it/15/f03c15/f03c15)](#) |
-| In progress | [![YELLOW](http://placehold.it/15/ffdd00/ffdd00)](#) |
-| Completed | [![GREEN](http://placehold.it/15/44bb44/44bb44)](#) |
+| Not done | [![RED](http://via.placeholder.com/15/f03c15/f03c15)](#) |
+| In progress | [![YELLOW](http://via.placeholder.com/15/ffdd00/ffdd00)](#) |
+| Completed | [![GREEN](http://via.placeholder.com/15/44bb44/44bb44)](#) |
 
 #### Progression table
 | Task | Progression |
 |:-----------------------|:------------------------------------:|
-| Description of Work | [![GREEN](http://placehold.it/15/44bb44/44bb44)](#) |
-| Detailed progress plan | [![GREEN](http://placehold.it/15/44bb44/44bb44)](#) |
-| Scientific Article | [![GREEN](http://placehold.it/15/44bb44/44bb44)](#) |
-| Software delivery form | [![GREEN](http://placehold.it/15/44bb44/44bb44)](#) |
-| Video | [![GREEN](http://placehold.it/15/44bb44/44bb44)](#) |
-| Poster | [![GREEN](http://placehold.it/15/44bb44/44bb44)](#) |
+| Description of Work | [![GREEN](http://via.placeholder.com/15/44bb44/44bb44)](#) |
+| Detailed progress plan | [![GREEN](http://via.placeholder.com/15/44bb44/44bb44)](#) |
+| Scientific Article | [![GREEN](http://via.placeholder.com/15/44bb44/44bb44)](#) |
+| Software delivery form | [![GREEN](http://via.placeholder.com/15/44bb44/44bb44)](#) |
+| Video | [![GREEN](http://via.placeholder.com/15/44bb44/44bb44)](#) |
+| Poster | [![GREEN](http://via.placeholder.com/15/44bb44/44bb44)](#) |
 
 ## Activities
 
