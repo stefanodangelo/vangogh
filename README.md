@@ -17,6 +17,9 @@ In order for the notebooks to work, the following source code must be downloaded
   - [weights](http://www.vlfeat.org/matconvnet/models/imagenet-vgg-verydeep-19.mat) for the pretrained model
 - [Dataset](https://drive.google.com/drive/folders/1r0PyD42lNfEIIKwtI_4J9NiELJOGw20D?usp=sharing)
 
+All the packages that were present in the VM used to run the code are listed in `requirements.txt` file. Note that not all of them have been used, so it is not necessary to install them all.
+
+
 Main credits: https://github.com/huihuangzhao/Neural-Style-Transfer-Papers-Code
 ## Instructions
 1. For the pre-processing phase or to reproduce [CycleGAN](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) results, have a look at `src/CycleGAN.ipynb` notebook. A pretrained model is available for the pre-processing step, and once you download it, just copy the folder `vangogh2photo`, containing both the 2 generators and the 2 discriminators, under `pytorch-CycleGAN-and-pix2pix/checkpoints/`. The latter should be the right path if you cloned the CycleGAN repository without changing any names. \
