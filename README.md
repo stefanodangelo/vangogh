@@ -5,6 +5,9 @@
 ### Precioso Frédéric <br>frederic.precioso@univ-cotedazur.fr 
 ### Fabien Gandon <br>fabien.gandon@inria.fr
 
+## Paper
+ICIP 2022 - [link](https://ieeexplore.ieee.org/document/9897728) to IEEE Xplore archive.
+
 ## Source code
 In order for the notebooks to work, the following source code must be downloaded:
 - CycleGAN:
